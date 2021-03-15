@@ -1,0 +1,23 @@
+{
+	"name": "Secret Message",
+	"source": "https://github.com/Puv1s/SecretMessage/blob/main/SecretMessage.plugin.js",
+	"updateUrl": "https://raw.githubusercontent.com/Puv1s/SecretMessage/master/SecretMessage.plugin.js",
+	"authors": [
+		{
+			"name": "Puwu",
+			"discord_id": "116242787980017679",
+			"github_username": "Puv1s"
+		},
+		{
+			"name": "Kyza",
+			"discord_id": "220584715265114113",
+			"github_username": "Kyza"
+		}
+	],
+	"version": "0.0.3",
+	"description":
+		"Lets you send invisible text with your initial message, encrypted by E2EE.",
+	"github": "https://github.com/Puv1s/SecretMessage",
+	"github_raw":
+		"https://raw.githubusercontent.com/Puv1s/SecretMessage/master/SecretMessage.plugin.js"
+}
