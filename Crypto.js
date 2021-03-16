@@ -1,4 +1,4 @@
-import * as nodecrypto from "discord/crypto";
+import * as nodecrypto from "crypto";
 
 const ChannelStore = BdApi.findModuleByProps("getChannel", "getDMFromUserId");
 const SelectedChannelStore = BdApi.findModuleByProps("getChannelId");
